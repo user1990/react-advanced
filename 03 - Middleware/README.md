@@ -4,7 +4,7 @@ This is simple React, Redux app just for showing middleware functions & purposes
 
 ### App Markup
 
-![app](https://user-images.githubusercontent.com/13827656/31043016-2d1e6814-a5bd-11e7-9a2e-b5da1cf67e3b.jpg)
+![users](https://user-images.githubusercontent.com/13827656/31044669-3b818336-a5dc-11e7-8b00-7ffc42d1306d.jpg)
 
 ### Action to State Redux Module
 
