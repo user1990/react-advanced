@@ -24,6 +24,10 @@ React, Redux authentication boilerplate
 Download files.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
+> cd server
 > npm install
-> npm start
+> nodemon
+> cd client
+> npm install
+> npm run start
 ```
