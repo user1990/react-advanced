@@ -1,6 +1,6 @@
 # Authentication
 
-This is simple React, Redux app just for showing middleware functions & purposes.
+React, Redux authentication boilerplate
 
 ### About
 
@@ -16,6 +16,8 @@ This is simple React, Redux app just for showing middleware functions & purposes
 > JWT
 > Signing in with Local Strategy
 > Protecting Signin Route
+> Redux Form Validation
+> Server side Solution for CORS
 ```
 
 ### Getting Started
